@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">TravelSearch</string>
+    <string-array name="category">
+        <item>default</item>
+        <item>airport</item>
+        <item>amusement_park</item>
+        <item>aquarium</item>
+        <item>art_gallery</item>
+        <item>bakery</item>
+        <item>bar</item>
+        <item>beauty_salon</item>
+        <item>bowling_alley</item>
+        <item>bus_station</item>
+        <item>cafe</item>
+        <item>campground</item>
+        <item>car_rental</item>
+        <item>casino</item>
+        <item>lodging</item>
+        <item>moview_theater</item>
+        <item>museum</item>
+        <item>night_club</item>
+        <item>park</item>
+        <item>parking</item>
+        <item>restaurant</item>
+        <item>shopping_mall</item>
+        <item>stadium</item>
+        <item>subway_station</item>
+        <item>taxi_stand</item>
+        <item>tran_station</item>
+        <item>travel_agency</item>
+        <item>zoo</item>
+    </string-array>
+    <string-array name="reviewCategory">
+        <item>Google reviews</item>
+        <item>Yelp reviews</item>
+    </string-array>
+    <string-array name="reviewSort">
+        <item>Default order</item>
+        <item>Highest rating</item>
+        <item>Lowest rating</item>
+        <item>Most recent</item>
+        <item>Least recent</item>
+    </string-array>
+    <array name="placeTypes">
+        <item>PlaceType</item>
+        <item>Address</item>
+        <item>Cities</item>
+        <item>Establishment</item>
+        <item>Geocode</item>
+        <item>Regions</item>
+        <item>All</item>
+    </array>
+    <array name="placeTypesValue">
+        <item>0</item>
+        <item>2</item>
+        <item>5</item>
+        <item>34</item>
+        <item>1007</item>
+        <item>4</item>
+        <item>0</item>
+    </array>
+    <array name="mode">
+        <item>DRIVING</item>
+        <item>BICYCLING</item>
+        <item>TRANSIT</item>
+        <item>BIKING</item>
+    </array>
+</resources>
